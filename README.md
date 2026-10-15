@@ -1,63 +1,38 @@
-# Cauã Macedo Santana Cabral
-> Estudante de Ciência da Computação.
- 
----
+# 🎓 Hub de Projetos & Soluções em IA | Estudos Académicos
 
-### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caua-macedo)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cauamacedo545@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](cv)
+Bem-vindo ao meu repositório central de Inteligência Artificial! Este espaço reúne os projetos e experimentos práticos desenvolvidos ao longo da minha formação em **Ciência da Computação**, com foco em engenharia de prompts, desenvolvimento assistido por IA, modelagem de dados e análise de viés em algoritmos.
 
 ---
 
-### 👨‍💻 Sobre
-Atualmente cursando o 2° período de Ciência da Computação na Universidade Cidade de São Paulo - UNICD. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em automação de processos, desenvolvimento back-end e Inteligência Artificial aplicada.
+## 📌 Navegação Rápida pelos Projetos
 
-* **Habilidades Técnicas:** Python, SQL, Power BI, Excel.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Desenvolvi um projeto de automação de tarefas em Excel, criando um sistema que preenche automaticamente planilhas com as informações necessárias para importação de dados em lote no sistema.
+Cada pasta neste repositório representa um projeto individual documentado com suas respectivas instruções, código-fonte e tecnologias aplicadas:
 
----
-
-### 🛠 Minhas Ferramentas Favoritas
-
-#### 💻 Linguagens e Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-#### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+| Projeto | Descrição Resumida | Tecnologias / Foco |
+| :--- | :--- | :--- |
+| 📊 **[analise-vies-ia](./analise-vies-ia)** | Estudo prático sobre os impactos de datasets limitados e estereotipados em modelos de classificação visual, destacando a importância da curadoria humana (*Human-in-the-loop*). | Teachable Machine, Machine Learning, Classificação de Imagens |
+| ⚡ **[corrida-do-prompt](./corrida-do-prompt)** | Desafio de Engenharia de Prompt e refinamento iterativo limitado a 5 tentativas para criação de uma cena cinematográfica realista em Marte. | ChatGPT, IA Generativa, Prompt Engineering |
+| 📱 **[gerador-qrcode-ia](./gerador-qrcode-ia)** | Reconstrução de uma aplicação web geradora de QR Code através de engenharia reversa de interface e desenvolvimento assistido por IA. | React, TypeScript, Tailwind CSS, Google AI Studio (Gemini) |
+| 🌐 **[gestao-ferias-ia](./gestao-ferias-ia)** | Aplicação web de gestão desenvolvida em ambiente Low-Code com suporte de IA, focando em modelagem de dados, workflows e regras de privacidade. | Bubble.io, Low-Code, Workflows, Privacy Rules |
+| 🚀 **[qr-code-studio-firebase](./qr-code-studio-firebase)** | Plataforma avançada e inteligente de QR Codes com autenticação em nuvem, histórico de utilizadores e design moderno baseado em Glassmorfismo. | Firebase (Auth, Firestore, Hosting), HTML5/CSS3/JS, Google AI Studio |
+| 📊 **[rh-produtivo-ia](./rh-produtivo-ia)** | Single Page Application de gestão de RH desenvolvida através de prompts estruturados em XML e teste comparativo ("Batalha de Modelos") entre diferentes LLMs. | HTML5, CSS3, XML Prompt Engineering, Claude, Gemini, DeepSeek |
 
 ---
 
-### 📂 Portfólio de Projetos
+## 💡 Como Navegar neste Repositório
 
-#### 🐍 Python e Automação
+1. Clique no link de qualquer projeto na tabela acima para explorar os ficheiros e a documentação detalhada.
+2. Cada pasta contém um ficheiro **`README.md` específico** com a fundamentação teórica, análise de resultados e o passo a passo para execução local.
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Automação Excel com Python** | Sistema desenvolvido em Python para automatizar preenchimento, tratamento e organização de planilhas Excel utilizadas em processos operacionais. | [Ver Projeto](https://github.com/dev-cauamacedo/automacao-excel-python) |
+---
 
-#### 🤖 Inteligência Artificial
+## 🛠️ Tecnologias & Conceitos Abordados
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **A Corrida do Prompt** | Projeto acadêmico focado em Engenharia de Prompt e refinamento iterativo utilizando Inteligência Artificial Generativa para criação de cenas cinematográficas hiper-realistas através de múltiplas otimizações de prompts. | [Ver Projeto](./corrida-do-prompt/) |
-| **Análise Crítica do Viés em Modelos de Classificação por IA** | Experimento prático realizado no Teachable Machine para demonstrar como um dataset reduzido e enviesado impede que a IA diferencie corretamente, resultando em classificações equivocadas. | [Ver Projeto](analise-vies-ia) |
-| **Batalha de Modelos (XML)** | Comparativo de performance entre 7 LLMs utilizando Engenharia de Prompt estruturada em XML para criação de uma Single Page de RH. | [Ver Projeto](rh-produtivo-ia) |
-| **Gerador de QR Code com IA** | Reconstrução de um aplicativo web gerador de QR Code utilizando engenharia reversa da interface e desenvolvimento assistido por IA com Google AI Studio (Gemini), utilizando React, TypeScript, Tailwind CSS e Vite. | [Ver Projeto](gerador-qrcode-ia) |
-| **QR Code Studio Firebase** | Plataforma inteligente de geração de QR Codes com autenticação de usuários, armazenamento em nuvem e integração com Firebase. | [Ver Projeto](./qr-code-studio-firebase/) |
-| **Sistema de Gestão de Férias com IA** | Desenvolvimento de uma aplicação web de gestão de ferias utilizando Bubble.io e Inteligência Artificial, aplicando conceitos de modelagem de dados, workflows, regras de privacidade, responsividade e otimização de desempenho. | [Ver Projeto](gestao-ferias-ia) |
+* **Desenvolvimento Assistido por IA:** Google AI Studio (Gemini), engenharia de prompts iterativa e engenharia reversa de interfaces.
+* **Front-End & Low-Code:** React, TypeScript, Tailwind CSS e Bubble.io.
+* **Cloud & Backend:** Ecossistema Firebase (Authentication, Firestore, Hosting).
+* **Conceitos Académicos:** Análise de viés algorítmico, governança de dados, testes comparativos de LLMs (verbosidade e performance) e boas práticas de desenvolvimento responsável.
 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+---
+
+📫 **Contacto:** Sinta-se à vontade para explorar os códigos, abrir *issues* ou aceder ao meu [perfil principal do GitHub](https://github.com/dev-cauamacedo).
