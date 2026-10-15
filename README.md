@@ -41,7 +41,7 @@ Atualmente cursando o 2° período de Ciência da Computação na Universidade C
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Automação Excel com Python** | Sistema desenvolvido em Python para automatizar preenchimento, tratamento e organização de planilhas Excel utilizadas em processos operacionais. | [Ver Projeto](automacao-excel-python) |
+| **Automação Excel com Python** | Sistema desenvolvido em Python para automatizar preenchimento, tratamento e organização de planilhas Excel utilizadas em processos operacionais. | [Ver Projeto](https://github.com/dev-cauamacedo/automacao-excel-python) |
 
 #### 🤖 Inteligência Artificial
 
